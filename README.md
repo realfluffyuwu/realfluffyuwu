@@ -6,9 +6,7 @@ Building 2 Games Solo in **Godot**.
 **Private Breachers**: a FPS-RTS Hybrid Swat Style Game.  
 **Reapers**: Horde Shooter but with Mechs, because I love Mechs we need more games with them.  
 
-### Operating Systems I use  
-![Static Badge](https://img.shields.io/badge/user%20btw-blue?style=for-the-badge&logo=archlinux&labelColor=black)  
-![Static Badge](https://img.shields.io/badge/For%20Gaming%20only-red?style=for-the-badge&logo=windows&labelColor=blue)
+![Static Badge](https://img.shields.io/badge/user%20btw-blue?style=for-the-badge&logo=archlinux&labelColor=black)
 
 ### Languages I use  
 ![Static Badge](https://img.shields.io/badge/C%20C++-black?style=for-the-badge&logo=c)
