@@ -2,8 +2,7 @@
 I'm just a Wanna be Game Developer from Australia and I love RTS Games.
 
 ### Working On
-Building Games Solo in **Godot**.   
-My Current Game Project is **Private Breachers**  
+A Private Game Project.  
 
 ![Static Badge](https://img.shields.io/badge/user%20btw-blue?style=for-the-badge&logo=archlinux&labelColor=black)
 
