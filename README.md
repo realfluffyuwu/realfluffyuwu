@@ -6,7 +6,7 @@ A [Unreal Game Project](https://github.com/zuedev/UnrealProject250407).
 
 ![Static Badge](https://img.shields.io/badge/user%20btw-blue?style=for-the-badge&logo=archlinux&labelColor=black)
 
-I use Codeium AI for Code completion, [My Codeium Profile](https://codeium.com/profile/realfluffyuwu)
+~~I use Codeium AI for Code completion~~, They Rebranded to Windsurf and removed Super Complete from the Free Users, Absolutely useless.
 
 ### Languages I use 
 ![Static Badge](https://img.shields.io/badge/C%20C++-black?style=for-the-badge&logo=c)
